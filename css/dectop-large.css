@@ -505,6 +505,10 @@ footer {
     background-color: rgba(0, 143, 231, 1);
     width: 47%;
 }
+.box-azul3{
+    width: 47%;
+    background-color: rgba(0, 213, 248, 1);
+}
 .container-box{
     width: 94%;
     max-width: 100%;
