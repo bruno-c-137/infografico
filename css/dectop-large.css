@@ -506,9 +506,10 @@ footer {
 }
 .box-azul1{
     background-color: rgba(0, 143, 231, 1);
-   
+   width: 100%;
 }
 .box-azul3{
+    width: 100%;
     
     background-color: rgba(0, 213, 248, 1);
 }
@@ -523,6 +524,7 @@ footer {
 }
 .box-vermelho{
     background-color: rgba(255, 80, 80, 1);
+    width: 100%;
    
 }
 .text-box{
@@ -556,6 +558,10 @@ footer {
     margin-top: 30px;
     margin-bottom: -20px;
     border-radius: 4%;
+}
+.position{
+    position: relative;
+    top: -180px;
 }
 
 
