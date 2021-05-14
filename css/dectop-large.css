@@ -577,6 +577,7 @@ footer {
     margin-right: 1em;
 }
 .justify-center{
+    display: flex;
     justify-content: center;
 }
 .bottom-{
@@ -584,6 +585,10 @@ margin-bottom: -100px;
 }
 .margin-bottom{
     margin-bottom: 350px;
+    border-bottom: 4px solid #FF5050;
+
+
+
 }
 
 .table-cell{
@@ -591,8 +596,27 @@ margin-bottom: -100px;
 }
 .box-1{
     margin: 0px 0px 0px 20px
+    
+    
 }
-
+.width-70{
+    width: 70%;
+    text-align: center;
+}
+.width-70-1{
+    width: 70%;
+}
+.justify-end{
+    display: flex;
+    justify-content: flex-end;
+}
+.width-50{
+    width: 50%;
+    text-align: end;
+}
+.width-50-1{
+    width: 50%;
+}
 
 
 
@@ -649,7 +673,7 @@ margin-bottom: -100px;
     visibility: hidden;
 }
 
-.clearfix:before,
+/* .clearfix:before,
 .clearfix:after {
     content: " ";
     display: table;
@@ -661,7 +685,7 @@ margin-bottom: -100px;
 
 .clearfix {
     *zoom: 1;
-}
+} */
 
 /* ==========================================================================
    Print styles
