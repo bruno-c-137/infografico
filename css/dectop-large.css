@@ -274,8 +274,8 @@ article {
 
 .nav-main {
     display: flex;
-    padding-bottom: 80px;
-    padding-top: 60px;
+    
+    
     align-items: center;
 
 }
@@ -294,7 +294,7 @@ article {
 }
 
 .container {
-    width: 1400px;
+    width: 1280px;
     max-width: 100%;
     margin: 0 auto;
 }
@@ -561,7 +561,24 @@ footer {
 }
 .position{
     position: relative;
-    top: -180px;
+    top: -100px;
+}
+.texto-main{
+ font-size: 28px;
+ line-height: 28px;
+ color: rgba(43, 43, 43, 1);
+ 
+}
+.texto-main-top{
+    color: rgba(43, 43, 43, 1);
+    font-size: 42px;
+    line-height: 1;
+}
+.nav-margin{
+    margin-right: 1em;
+}
+.justify-center{
+    justify-content: center;
 }
 
 
