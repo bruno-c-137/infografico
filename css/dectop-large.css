@@ -617,6 +617,31 @@ margin-bottom: -100px;
 .width-50-1{
     width: 50%;
 }
+.teste-display{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+.teste-img{
+    display: flex;
+    align-items: center;
+    
+}
+.width-50-bottom{
+    width: 50%;
+    text-align: center;
+}
+.botao-preto{
+    margin-left: 116px;
+    margin-right: -27px;
+}
+.text-box-1{
+    font-size: 30px;
+}
+.anside-bottom{
+    margin-bottom: 50px;
+    border-radius: 4%;
+}
 
 
 
