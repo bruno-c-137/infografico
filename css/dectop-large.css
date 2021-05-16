@@ -642,6 +642,17 @@ margin-bottom: -100px;
     margin-bottom: 50px;
     border-radius: 4%;
 }
+.num-box{
+    position: absolute !important;
+    top: -0.7em;
+    color: #000;
+    background-color: rgba(255, 255, 255, 1);
+    width: 1.5em;
+   display: flex;
+   justify-content: center;
+   margin-left: 1em;
+   border-radius: 10%;
+}
 
 
 
