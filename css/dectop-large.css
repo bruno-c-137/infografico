@@ -653,6 +653,11 @@ margin-bottom: -100px;
    margin-left: 1em;
    border-radius: 10%;
 }
+.central-box{
+    display: flex;
+    justify-content: center;
+    width: 50%;
+}
 
 
 
