@@ -375,6 +375,28 @@ article {
 
 .center {
     text-align: center;
+    margin-bottom: 25px;
+    
+}
+.anside-dowload{
+    border-radius: 4%;
+}
+.anside-top{
+    margin-bottom: 100px;
+    width: 50%;
+    background-color: rgba(0, 213, 248, 1);
+    border-radius: 4%;
+}
+.center-top{
+   padding: 6%;
+   margin: 0;
+}
+.text-box-top{
+    font-size: 42px;
+    color:  rgba(43, 43, 43, 1);
+    ;
+    margin: 0;
+    text-align: left;
 }
 
 
@@ -658,8 +680,18 @@ margin-bottom: -100px;
     justify-content: center;
     width: 50%;
 }
-
-
+.box-azul-bottom-1{
+    width: 100%;
+    background-color: rgba(0, 143, 231, 1);
+}
+.box-azul-bottom-2{
+    width: 100%;
+    background-color: rgba(0, 213, 248, 1);
+}
+.box-azul-bottom-5{
+    width: 100%;
+    background-color: rgba(0, 143, 231, 1);
+}
 
 
 
