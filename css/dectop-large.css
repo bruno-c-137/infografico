@@ -275,7 +275,7 @@ article {
 .nav-main {
     display: flex;
     
-    
+    justify-content: center;
     align-items: center;
 
 }
@@ -622,22 +622,22 @@ margin-bottom: -100px;
     
 }
 .width-70{
-    width: 70%;
+   max-width: 26em;
     text-align: center;
 }
 .width-70-1{
-    width: 70%;
+    max-width: 10em;
 }
 .justify-end{
     display: flex;
     justify-content: flex-end;
 }
 .width-50{
-    width: 50%;
+    max-width: 16em;
     text-align: end;
 }
 .width-50-1{
-    width: 50%;
+    max-width: 9em;
 }
 .teste-display{
     display: flex;
