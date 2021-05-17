@@ -2,7 +2,7 @@
 
 
     .img-head-size {
-        width: 70vw;
+        width: 112vw;
     }
 
     .conteudo {
@@ -19,6 +19,12 @@
 
     .max-width {
         padding: 0;
+    }
+    .sub{
+        font-size: 20px;
+    }
+    .container-img-object-1{
+       object-fit: fill;
     }
 
 

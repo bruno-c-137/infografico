@@ -12,6 +12,8 @@
         flex: 1;
         min-width: 45%;
     }
-    
+    .container-img-object-1{
+        object-fit: cover;
+    }
 
 }

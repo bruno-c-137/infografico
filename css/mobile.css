@@ -33,7 +33,11 @@
     }
 
     .com {
-        margin: -80px 0px 0px -19px;
+        margin: 0px -8% 0px 0px;
+        display: flex;
+        justify-content: flex-end;
+        
+       
     }
 
     .subtitulo-main {
@@ -272,7 +276,7 @@
     }
     
     .bottom-{
-        margin-bottom: -100px;
+        margin-bottom: -10px;
     }
     .central-box{
         width: 100%;
@@ -283,6 +287,37 @@
     .text-box-top{
         font-size: 24px;
         text-align: center;
+    }
+    .top-{
+        top: -45px;
+    }
+    .img-head{
+        bottom: -27%;
+        
+    }
+    .flex-box{
+        display: block;
+    }
+    .sub{
+        font-size: 16px;
+        line-height: 1.5;
+    }
+    .text-box{
+        font-size: 16px;
+        
+    }
+    .width-70{
+        font-size: 24px;
+        line-height: 1.4;
+    }
+    .width-70-1{
+        font-size: 18px;
+    }
+    .width-50{
+        font-size: 18px;
+    }
+    .width-50-1{
+        font-size: 18px;
     }
 
 
