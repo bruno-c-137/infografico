@@ -279,6 +279,13 @@ article {
     align-items: center;
 
 }
+.nav-main-1 {
+    display: flex;
+    
+    justify-content: center;
+    align-items: center;
+
+}
 
 .flex {
     margin-right: 180px;
@@ -558,6 +565,15 @@ footer {
     margin-right: 10%;
 
 }
+.text-box-dowload{
+    font-size: 20px;
+   line-height: 1.4;
+    color: #FFFFFF;
+   
+    margin-left: 10%;
+    margin-right: 10%;
+
+}
 .box-text-end{
    text-align: end;
    margin-top: -35px;
@@ -621,7 +637,8 @@ margin-bottom: -100px;
     display: table-cell;
 }
 .box-1{
-    margin: 0px 0px 0px 20px
+    margin: 0px 0px 0px 20px;
+    color: rgba(255, 255, 255, 1);
     
     
 }
