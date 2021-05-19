@@ -502,7 +502,7 @@ footer {
     font-weight: 500;
     line-height: 34px;
     letter-spacing: 0em;
-    color: #FFFFFF;
+    color: rgba(43, 43, 43, 1);
 
 }
 
@@ -587,11 +587,12 @@ footer {
     margin-top: 0;
     margin-bottom: 10px;
     padding-top: 10px;
+    font-weight: 700;
 
 }
 
 .text-box-dowload {
-    font-size: 20px;
+    font-size: 23px;
     line-height: 1.4;
     color: #FFFFFF;
 
@@ -787,6 +788,17 @@ footer {
 }
 .max-with-card{
     max-width: 100%;
+}
+.margin-cards-2-3{
+    margin-top: -10%;
+    margin-bottom: -5%;
+}
+.margin-cards-1-2-4-5{
+    margin-top: -10%;
+}
+
+.margin-15px{
+    margin-bottom: 15px;
 }
 
 
