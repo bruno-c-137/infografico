@@ -20,3 +20,9 @@
     
 
 }
+@media only screen and (min-width: 1450px) {
+    .img-head-size{
+        max-width: 98vw;
+    }
+
+}
