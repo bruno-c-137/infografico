@@ -20,11 +20,13 @@
     .max-width {
         padding: 0;
     }
-    .sub{
+
+    .sub {
         font-size: 20px;
     }
-    .container-img-object-1{
-       object-fit: fill;
+
+    .container-img-object-1 {
+        object-fit: fill;
     }
 
 
