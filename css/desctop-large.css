@@ -26,6 +26,7 @@
 .img-head {
     position: absolute;
     right: 0;
+    pointer-events: none;
 }
 
 .group {
@@ -164,7 +165,7 @@ nav ul {
     list-style-type: none;
 }
 
-nav a {
+/* nav a {
     display: block;
     margin-bottom: 10px;
     padding: 15px 0;
@@ -184,7 +185,7 @@ nav a:visited {
 
 nav a:hover {
     text-decoration: underline;
-}
+} */
 
 /* ==============
     MOBILE: Main
@@ -725,7 +726,7 @@ footer {
 .width-50-bottom {
     width: 100%;
     padding-left: 15%;
-    
+
 }
 
 .botao-preto {
@@ -788,18 +789,21 @@ footer {
     padding-bottom: 1px;
 
 }
-.max-with-card{
+
+.max-with-card {
     max-width: 100%;
 }
-.margin-cards-2-3{
+
+.margin-cards-2-3 {
     margin-top: -10%;
     margin-bottom: -5%;
 }
-.margin-cards-1-2-4-5{
+
+.margin-cards-1-2-4-5 {
     margin-top: -10%;
 }
 
-.margin-15px{
+.margin-15px {
     margin-bottom: 15px;
 }
 
