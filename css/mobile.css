@@ -90,7 +90,7 @@
             32px;
         letter-spacing: 0px;
         text-align: left;
-       
+
         margin-top: 100px;
         margin-bottom: 100px;
 
@@ -266,14 +266,20 @@
     }
 
     .text-box-1 {
-        color: black;
+        color: rgba(255, 255, 255, 1);
         font-size: 16px;
+        line-height: 1.4;
+        padding-left: 8%;
+        text-align: initial;
+        padding-right: 15%;
+        padding-top: 5%;
     }
 
     .width-50-bottom {
         display: flex;
         justify-content: center;
         width: 100%;
+        padding: 0;
     }
 
     .botao-preto {
@@ -381,13 +387,16 @@
     .anside3 {
         margin-top: 30px;
     }
-    .margin-cards-2-3{
+
+    .margin-cards-2-3 {
         margin-top: 0;
         margin-bottom: 0;
     }
-    .margin-cards-1-2-4-5{
+
+    .margin-cards-1-2-4-5 {
         margin-top: 0;
     }
+
 
 
 }
